@@ -52,6 +52,7 @@
   font-style: normal;
   border: 1px solid #6c3baa;
   border-radius: 0 50px 0 50px;
+  box-shadow: 8px 10px 15px rgba(187, 187, 187, 0.984);
   text-align: center;
 }
 
@@ -72,6 +73,7 @@
   font-style: normal;
   border: 1px solid #6c3baa;
   border-radius: 50px 0 50px 0;
+  box-shadow: 8px 10px 15px rgba(187, 187, 187, 0.984);
   text-align: center;
   line-height: 1.2;
 }
