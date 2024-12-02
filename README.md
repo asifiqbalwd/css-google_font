@@ -8,6 +8,10 @@ This project is a structured HTML webpage showcasing google font.
 
 ---
 
+![CSS-Google font link to webpage](./img/CSS-Class-4.png)
+
+---
+
 ## Technologies Used
 
 - **HTML5**: To structure the webpage.
