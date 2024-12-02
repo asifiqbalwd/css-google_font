@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 100%;
+  height: 30%;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.html {
+  width: 30%;
+  height: auto;
+  padding: 20px;
+  background-color: #6c3baa;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  border: 1px solid #6c3baa;
+  border-radius: 50px 0 50px 0;
+  box-shadow: 8px 10px 15px rgba(187, 187, 187, 0.984);
+  text-align: center;
+}
+
+.html > p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  padding-top: 10px;
+  line-height: 1.3;
+}
+.css {
+  width: 30%;
+  height: auto;
+  padding: 20px;
+  background-color: #6c3baa;
+  color: #fff;
+  font-family: "Orbitron", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  border: 1px solid #6c3baa;
+  border-radius: 0 50px 0 50px;
+  text-align: center;
+}
+
+.css > p {
+  font-family: "Bruno Ace SC", sans-serif;
+  padding-top: 10px;
+  font-weight: 400;
+  font-style: italic;
+}
+.js {
+  width: 30%;
+  height: auto;
+  padding: 20px;
+  background-color: #6c3baa;
+  color: #fff;
+  font-family: "Prompt", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  border: 1px solid #6c3baa;
+  border-radius: 50px 0 50px 0;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.js > p {
+  font-weight: 400;
+  padding-top: 10px;
+  line-height: 1.2;
+}
+span {
+  font-size: 3rem;
+  color: burlywood;
+}
+img:hover {
+  transform: scale(1.1);
+}
+h1:hover {
+  transform: scale(1.1);
+}
